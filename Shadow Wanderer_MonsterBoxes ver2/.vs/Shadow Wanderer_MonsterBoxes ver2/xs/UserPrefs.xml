@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1F626E1F-186D-C051-AABB-BDF84F1072F1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/mainmenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/movement.cs" Line="45" Column="52" />
+      <File FileName="Assets/Scripts/Breakbrick.cs" />
+      <File FileName="Assets/Scripts/mainmenu.cs" Line="8" Column="5" />
+      <File FileName="Assets/Scripts/popmenu.cs" />
+      <File FileName="Assets/Scripts/menu.cs" />
+      <File FileName="Assets/Scripts/level2_trigger1.cs" />
+      <File FileName="Assets/Scripts/level2_trigger2.cs" />
+      <File FileName="Assets/Scripts/level2_trigger3.cs" />
+      <File FileName="Assets/Scripts/level2_trigger4.cs" />
+      <File FileName="Assets/Scripts/level2_trigger5.cs" />
+      <File FileName="Assets/Scripts/level2_trigger6.cs" />
+      <File FileName="Assets/Scripts/level2_trigger7.cs" />
+      <File FileName="Assets/Scripts/popmenu2.cs" />
+      <File FileName="Assets/Scripts/Trigger1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4a46cfe5-dee2-4600-8173-48aa72e134d5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
